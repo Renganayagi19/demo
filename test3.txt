@@ -1,1 +1,2 @@
 This is test3.txt file
+Github is interesting to learn in test3.txt file
